@@ -2,7 +2,7 @@
 Progetto finale per l'esame di maturità svolto presso l'Istituto superiore “Enrico Fermi” (MN).
 
 ## Descrizione del progetto
-Il progette verte sulla progettazione e assemblaggio dei componenti necessari per la realizzare di un quadricottero comandato tramite radiocomodando.
+Il progetto verte sulla progettazione e l'assemblaggio dei componenti necessari per la realizzare di un quadricottero comandato tramite radiocomodando.
 
 ## Fasi di progettazione
 Le fasi di progettazione e la scelta dei componenti possono essere trovate nella [tesina finale](https://github.com/francesca-cantoni/Quadcopter/blob/master/Report_Quadricottero.pdf) (in modo più dettagliato) e nella [presentazione](https://github.com/francesca-cantoni/Quadcopter/blob/master/Presentazione_finale.pdf) (in modo più schematico)
