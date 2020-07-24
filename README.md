@@ -1,5 +1,5 @@
 # Quadricottero
-Progetto finale svolto per l'esame di quinta superiore all' Istituto superiore “Enrico Fermi” (MN).
+Progetto finale per l'esame di maturità svolto presso l'Istituto superiore “Enrico Fermi” (MN).
 
 ## Descrizione del progetto
 Il progette verte sulla progettazione e assemblaggio dei componenti necessari per la realizzare di un quadricottero comandato tramite radiocomodando.
