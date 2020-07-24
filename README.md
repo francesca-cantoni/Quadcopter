@@ -4,6 +4,9 @@ Progetto finale svolto per l'esame di quinta superiore all' Istituto superiore �
 ## Descrizione del progetto
 Il progette verte sulla progettazione e assemblaggio dei componenti necessari per la realizzare di un quadricottero comandato tramite radiocomodando.
 
+## Fasi di progettazione
+Le fasi di progettazione e la scelta dei componenti possono essere trovate nella [tesina finale](https://github.com/francesca-cantoni/Quadcopter/blob/master/Report_Quadricottero.pdf) (in modo più dettagliato) e nella [presentazione](https://github.com/francesca-cantoni/Quadcopter/blob/master/Presentazione_finale.pdf) (in modo più schematico)
+
 ## Hardware utilizzato
 -	Radiocomando, con annesso ricevitore, per pilotare il quadricottero da remoto
 -	Scheda di controllo Ardupilot APM 2.8 per garantire la stabilizzazione del quadricottero e regolare la velocità dei motori a seconda dei segnali ricevuti dal ricevitore
@@ -13,6 +16,7 @@ Il progette verte sulla progettazione e assemblaggio dei componenti necessari pe
 -	Tester per la batteria Lipo per ricevere un segnale sonoro quando la batteria è prossima alla scarica completa
 -	Telaio in legno costruito su misura
 
+
 ## Schema di cablaggio
 <p align="center">
   <img src="schema_cablaggio.png">
@@ -20,7 +24,7 @@ Il progette verte sulla progettazione e assemblaggio dei componenti necessari pe
 
 ## Cablaggio
 <p align="center">
-  <img src="cablaggio.jpg">
+  <img src="cablaggio.jpg" width="500" height="400">
 </p>
 
 ## Test finale
