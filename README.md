@@ -13,6 +13,8 @@ Il progetto verte sulla progettazione e l'assemblaggio dei componenti necessari 
 -	Tester per la batteria Lipo per ricevere un segnale sonoro quando la batteria è prossima alla scarica completa
 -	Telaio in legno costruito su misura
 
+## Fasi di progettazione
+Informazioni aggiuntive sulle fasi di progettazione e sulla scelta dei componenti si trovano nella [presentazione](https://github.com/francesca-cantoni/Quadcopter/blob/master/Presentazione_finale.pdf) e nella [tesina finale](https://github.com/francesca-cantoni/Quadcopter/blob/master/Report_Quadricottero.pdf). 
 
 ## Schema di cablaggio
 <p align="center">
